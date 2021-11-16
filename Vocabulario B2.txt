@@ -1,0 +1,252 @@
+ハンサム,ハンサム,guapo
+きれい,綺麗,limpio,lindo,hermoso
+しずか,静か,tranquilo,silencioso
+ゆうめい,有名,famoso
+げんき,元気,sano,con ánimo
+べんり,便利,útil,conveniente
+すてき,すてき,bonito
+おおきい,大きい,grande
+ちいさい,小さい,pequeño
+あたらしい,新しい,nuevo
+ふるい,古い,viejo
+あつい,暑い,caliente,caluroso
+さむい,寒い,frío
+むずかしい,難しい,difícil
+やさしい,易しい,fácil
+たかい,高い,caro,alto
+やすい,安い,barato
+ひくい,低い,bajo
+おもしろい,おもしろい,interesante
+おいしい,美味しい,rico,delicioso
+まずい,まずい,desabrido,de mal sabor
+たのしい,楽しい,divertido,entretenido
+つよい,強い,fuerte
+よわい,弱い,débil
+しろ,白,blanco
+くろ,黒,negro
+あか,赤,rojo
+あお,青,azul
+みどり,緑,verde
+むらさき,紫,violeta,morado
+きいろ,黄色,amarillo
+ちゃいろ,茶色,marrón
+ピンク,ピンク,rosa
+オレンジ,オレンジ,naranja
+グレー,グレー,gris
+ベージュ,ベージュ,beige
+あまい,甘い,dulce
+からい,辛い,picante
+にがい,苦い,amargo
+しおからい,塩辛い,salado
+すっぱい,酸っぱい,ácido,agrio
+こい,濃い,fuerte,marcado,espeso
+うすい,薄い,soso,flojo,suave
+たべます,食べます,comer
+のみます,飲みます,beber
+みます,見ます,mirar
+ききます,聞きます,escuchar
+よみます,読みます,leer
+かきます,書きます,escribir
+かいます,買います,comprar
+とります,撮ります,tomar fotos,sacar fotos
+します,します,hacer
+あいます,会います,ver a,encontrarse con
+べんきょうします,勉強します,estudiar
+みず,水,agua
+おちゃ,お茶,té verde
+ぎゅうにゅう,牛乳,leche
+てがみ,手紙,carta
+レポート,レポート,informe
+しゃしん,写真,foto
+しゅくだい,宿題,tarea
+トランプ,トランプ,cartas　jugables,cartas
+かいぎ,会議,reunión
+でんわ,電話,teléfono
+しんぶん,新聞,diario,periódico
+きのう,昨日,ayer
+あした,明日,mañana
+あさ,朝,en la mañana,mañana,la mañana
+ひる,昼,mediodía
+よる,夜,noche
+まいあさ,毎朝,todas las mañanas,cada mañana
+それから,それから,luego,después de eso
+おきます,起きます,despertar
+えいご,英語,inglés
+あさごはん,朝ごはん,desayuno
+ねます,寝ます,dormir
+ばんごはん,晩ごはん,cena
+はたらきます,働きます,trabajar
+いつも,いつも,siempre
+としょかん,図書館,biblioteca
+かんたん,簡単,fácil,sencillo
+ちかい,近い,cercano
+とおい,遠い,lejano
+はやい,速い,rapido
+おそい,遅い,tarde,lento,despacio
+あたたかい,暖かい,tibio,cálido,templado
+すずしい,涼しい,fresco
+きせつ,季節,estación del año
+はる,春,primavera
+なつ,夏,verano
+あき,秋,otoño
+ふゆ,冬,invierno
+てんき,天気,tiempo,clima
+あめ,雨,lluvia
+ゆき,雪,nieve
+くもり,曇り,nublado
+いま,今,ahora
+きょう,今日,hoy
+ごぜん,午前,en la mañana,A.M.
+ごご,午後,en la tarde,P.M.
+おととい,おととい,anteayer
+あさって,あさって,pasado mañana
+とても,とても,mucho
+あまり,あまり,un poco
+まいばん,毎晩,cada noche
+まいにち,毎日,cada día
+おとこのひと,男の人,hombre
+おいしそうです,おいしそうです,parece delicioso,se ve delicioso
+おんなのひと,女の人,mujer
+レストラン,レストラン,restaurant
+から,から,debido,ya que,desde
+メニュー,メニュー,menú
+ハンバーガー,ハンバーガー,hamburguesa
+~どうですか,~どうですか,¿qué tal　aquello?,¿qué tal hacer eso?,qué tal aquello,qué tal hacer eso,cómo es,cómo es eso,qué tal
+~にします,~にします,decidirse a,decidirse por
+いい,いい,bien,bueno
+ピザ,ピザ,pizza
+そうします,そうします,eso,hagamos eso
+いきます,行きます,ir
+きます,来ます,venir
+かえります,帰ります,volver,regresar,ir a casa
+がっこう,学校,escuela
+スーパー,スーパー,supermercado
+えき,駅,estación
+ひこうき,飛行機,avión
+ふね,船,barco
+でんしゃ,電車,tren
+バス,バス,bus
+タクシー,タクシー,taxi
+じてんしゃ,自転車,bicicleta
+あるいて,歩いて,a pie
+ゆうびんきょく,郵便局,oficina de correo
+ひと,人,persona,gente
+ともだち,友だち,amigo,amigos
+かぞく,家族,familia
+ひとりで,一人で,solo
+せんしゅう,先週,la semana pasada
+こんしゅう,今週,esta semana
+らいしゅう,来週,la próxima semana
+せんげつ,先月,el mes pasado
+こんげつ,今月,este mes
+らいげつ,来月,el próximo mes
+きょねん,去年,el año pasado
+とし,今年,este año
+らいねん,来年,el próximo año
+ベッド,ベッド,cama
+おく,奥,fondo,interior
+まんなか,真ん中,en medio,el centro
+どこ,どこ,dónde
+すみ,隅,esquina
+おきます,置きます,colocar,poner
+わかりました,分かりました,entendido,entiendo
+ドア,ドア,puerta
+はこびます,運びます,transportar,mover,llevar
+ちかく,近く,cerca,cercano
+てつだいます,手伝います,ayudar
+へや,部屋,habitación
+もらいます,もらいます,recibir
+なんじ,何時,¿a qué hora?,¿qué hora?,qué hora,a qué hora
+びょういん,びょういん,hospital
+きてください,きてください,venga por favor
+でんわします,電話します,hacer una llamada,realizar una llamada
+クリニック,クリニック,clínica
+ケーキ,ケーキ,pastel
+たまご,たまご,huevos
+つくります,つくります,preparar
+よく,よく,bien,a menudo
+いれます,入れます,meter,poner,agregar,entrar,permitir entrar
+そして,そして,además
+います,います,estar,haber
+あります,あります,estar,haber
+いぬ,犬,perro
+ねこ,猫,gato
+き,木,árbol
+もの,物,cosa
+けしゴム,消しゴム,goma de borrar
+いす,いす,silla
+はなや,花屋,florería
+ぎんこう,銀行,banco
+こうえん,公園,parque
+テーブル,テーブル,mesa
+たな,棚,estante
+うえ,上,arriba
+した,下,abajo
+まえ,前,en frente
+うしろ,後ろ,atrás
+みぎ,右,derecha
+ひだり,左,izquierda
+なか,中,dentro
+そと,外,afuera
+となり,隣,al lado
+あいだ,間,entre
+まちます,待ちます,esperar
+おくれます,おくれます,estar atrasado
+カフェ,カフェ,cafetería
+ほんや,本屋,librería
+もしもし,もしもし,aló
+ぐらい,ぐらい,aproximadamente
+パンや,パン屋,panadería
+デパート,デパート,mall,centro comercial
+あかちゃん,赤ちゃん,bebé
+なんかい,なんかい,qué piso
+たくさん,たくさん,muchos,muchas
+こども,子ども,niños,niño,niñas,niña
+そこ,そこ,ahí
+ふく,服,ropa
+~てみます,~てみます,intentar una acción,probar algo
+ひきます,弾きます,tocar instrumento
+うたいます,歌います,cantar
+あつめます,集めます,coleccionar
+およぎます,泳ぎます,nadar
+ピアノ,ピアノ,piano
+ギター,ギター,guitarra
+しょどう,書道,caligrafía japonesa
+ジョギング,ジョギング,jogging,correr
+テニス,テニス,tenis
+ハイキング,ハイキング,hiking,senderismo
+ヨガ,ヨガ,yoga
+ビデオゲーム,ビデオゲーム,videojuegos
+おんがく,音楽,música
+えいが,映画,película
+かいもの,買い物,ir de compras,compras
+えんげい,園芸,jardinería
+りょこう,旅行,viaje
+せいかつ,生活,vida,estilo de vida
+あそび,遊び,jugar,pasar un buen tiempo
+おくさん,奥さん,esposa,señora
+しゅうまつ,週末,fin de semana
+さんぽ,散歩,paseo
+ところ,所,lugar
+ごろ,ごろ,aproximadamente
+いっしょに,いっしょに,juntos
+つかれます,疲れます,estar cansado,cansado
+むかえにいきます,迎えに行きます,ir a encontrarse con alguien
+いそがしい,忙しい,estar ocupado
+より,より,más que,en comparación a
+じこしょうかい,自己紹介,presentación personal
+はじめに,はじめに,primero
+はじまります,始まります,empezar
+では,では,entonces
+いきたい,行きたい,querer ir
+さいしょに,最初に,en primer lugar
+やきゅう,野球,beisbol
+しあい,試合,partido
+みたい,見たい,querer mirar,querer ver
+ゆうがた,夕方,tarde,antes del atardecer
+なんさい,何歳,¿qué edad?,qué edad,¿que edad?,que edad
+~になります,~になります,convertirse en,volverse,cumplir
+もうすぐ,もうすぐ,pronto
+おいわいします,お祝いします,celebrar
+たんじょうび,誕生日,cumpleaños
+うれしい,嬉しい,feliz
